@@ -1,0 +1,1 @@
+# legacy-windows-opera-compat
